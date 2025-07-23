@@ -18,6 +18,7 @@ This project provisions a basic **EC2 instance** on AWS using **Terraform**, wit
 ## 🧱 Project Structure
 terraform-ec2-instance/
 ├── main.tf
+
 ├── variables.tf
 ├── terraform.tfvars
 ├── outputs.tf
