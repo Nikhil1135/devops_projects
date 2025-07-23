@@ -78,12 +78,7 @@ Run terraform apply
 ### 📸 EC2 Instance Screenshot
 
 
-![EC2 Instance](https://github.com/Nikhil1135/devops_projects/raw/main/terraform-ec2-instance/ec2-instance.png)
-
-![EC2 Screenshot](https://github.com/Nikhil1135/devops_projects/raw/main/terraform-ec2-instance/ec2-instance.png)
-
-
-![EC2 Screenshot](https://github.com/Nikhil1135/devops_projects/blob/main/terraform-ec2-instance/ec2-instance.png?raw=true)
+![EC2 Instance](https://github.com/Nikhil1135/devops_projects/blob/32f286f28310e5081d41b09a488e33042188b707/terraform-ec2-instance/ec2-instance.jpg)
 
 
 
