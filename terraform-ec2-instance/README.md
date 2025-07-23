@@ -75,7 +75,10 @@ Run terraform apply
 
 
 ===============================📸 Pipeline Screenshot==========================
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/7987ed5e-7832-4e32-a95b-0f4003aab181" />
+### 📸 EC2 Instance Screenshot
+
+![EC2 Instance](https://github.com/Nikhil1135/devops_projects/blob/main/terraform-ec2-instance/ec2-instance.png.png?raw=true)
+
 ===============================================================================
 
 
