@@ -74,7 +74,7 @@ Run terraform apply
 
 
 
-===============================📸 Pipeline Screenshot==========================
+===============================📸 Pipeline Screenshot links==========================
 ## 📸 Screenshots
 
 ### ✅ CI/CD Pipeline Screenshot
