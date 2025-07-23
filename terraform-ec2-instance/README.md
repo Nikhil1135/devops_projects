@@ -16,18 +16,20 @@ This project provisions a basic **EC2 instance** on AWS using **Terraform**, wit
 ---
 
 ## 🧱 Project Structure
+
+```
 terraform-ec2-instance/
 ├── main.tf
-
 ├── variables.tf
 ├── terraform.tfvars
 ├── outputs.tf
 ├── versions.tf
 ├── .gitlab-ci.yml
 ├── screenshots/
-│ ├── pipeline-run.png
-│ └── ec2-instance.png
+│   ├── pipeline-run.png
+│   └── ec2-instance.png
 └── README.md
+```
 
 
 
