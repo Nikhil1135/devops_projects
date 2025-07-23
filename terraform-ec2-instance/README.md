@@ -80,6 +80,10 @@ Run terraform apply
 
 ![EC2 Instance](https://github.com/Nikhil1135/devops_projects/raw/main/terraform-ec2-instance/ec2-instance.png)
 
+![EC2 Screenshot](https://github.com/Nikhil1135/devops_projects/raw/main/terraform-ec2-instance/ec2-instance.png)
+
+
+![EC2 Screenshot](https://github.com/Nikhil1135/devops_projects/blob/main/terraform-ec2-instance/ec2-instance.png?raw=true)
 
 
 
