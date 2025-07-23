@@ -78,10 +78,11 @@ Run terraform apply
 ## 📸 Screenshots
 
 ### ✅ CI/CD Pipeline Screenshot
-![Pipeline Run](https://github.com/Nikhil1135/devops_projects/raw/main/terraform-ec2-instance/pipeline-run.jpg)
+![Pipeline Run](https://raw.githubusercontent.com/Nikhil1135/devops_projects/main/terraform-ec2-instance/pipeline-run.jpg)
 
 ### ✅ EC2 Instance Screenshot
-![EC2 Instance](https://github.com/Nikhil1135/devops_projects/raw/main/terraform-ec2-instance/ec2-instance.jpg)
+![EC2 Instance](https://raw.githubusercontent.com/Nikhil1135/devops_projects/main/terraform-ec2-instance/ec2-instance.jpg)
+
 
 
 
