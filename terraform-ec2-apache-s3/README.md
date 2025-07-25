@@ -1,0 +1,1 @@
+https://my-static-assets-bucket-unique123.s3.amazonaws.com/image.jpg
